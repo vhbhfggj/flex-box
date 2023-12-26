@@ -1,0 +1,21 @@
+
+
+.container {
+    background-color: rgb(4, 240, 4);
+width: 400px;
+ display: flex;
+}
+ .box {
+    background-color: rgb(255, 145, 1);
+    height: 200px;
+    width: 200px;
+    border: 1px solid rgb(195, 0, 255);
+ }
+.coler-3{
+  background-color: hotpink;
+  height: 200px;
+  width: 200px;
+ 
+}
+
+
